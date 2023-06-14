@@ -13,7 +13,7 @@
 
  - Superior em Análise e Desenvolvimento de Sistemas.
  - Atualmente realizando curso Programador Full Stack.
- - Conhecimento em HTML, CSS e Lógica da Programação
+ - Conhecimento em HTML, CSS e Lógica da Programação.
  - Horas vagas: ler, estudar e ouvir musica.
 
 <a href="https://github.com/AlefCAp">
