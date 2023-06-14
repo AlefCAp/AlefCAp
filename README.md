@@ -11,6 +11,7 @@
 
   <img src="https://media.tenor.com/oC706nzchFQAAAAC/kiba-naruto.gif" width="900px"/>
 
+ - 18 Anos
  - Superior em Análise e Desenvolvimento de Sistemas.
  - Atualmente realizando curso Programador Full Stack.
  - Conhecimento em HTML, CSS e Lógica da Programação.
