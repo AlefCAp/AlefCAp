@@ -19,7 +19,7 @@
 <a href="https://github.com/AlefCAp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlefCAp&show_icons=true&theme=dark" alt="Github status" />
 </a>
-1<a href="https://github.com/AlefCAp">
+<a href="https://github.com/AlefCAp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefCAp&layout=compact&theme=dark" />
 </a>
   
