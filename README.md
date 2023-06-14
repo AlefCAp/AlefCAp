@@ -34,7 +34,7 @@
 <div align="center">
  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/alefapolinario/)](https://www.linkedin.com/in/alefapolinario/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=black&logoColor=white&link= <a href="mailto: alefapolinario29@gmail.com">)](<a href="mailto: alefapolinario29@gmail.com">)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=black&logoColor=white&link <a href="mailto: alefapolinario29@gmail.com">)](<a href="mailto: alefapolinario29@gmail.com">)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&color=black&logoColor=white&link=https://www.instagram.com/_capolinario_/)](https://www.instagram.com/_capolinario_/)
 
 </div>
