@@ -3,7 +3,7 @@
  
  <head>
    
-  <h1> <strong>🍙 Álef Apolinário </strong></h1>
+  <h1> <strong>🍙 Álef Apolinário 🍙 </strong></h1>
  
  </head>
  
@@ -12,12 +12,9 @@
   <img src="https://media.tenor.com/oC706nzchFQAAAAC/kiba-naruto.gif" width="900px"/>
 
  - Superior em Análise e Desenvolvimento de Sistemas.
-<br>
- 🍙  Atualmente realizando curso Programador Full Stack.
-<br>
- 🍙  Conhecimento em HTML, CSS e Lógica da Programação.
-<br>
- 🍙  Horas vagas: ler, estudar e ouvir musica.
+ - Atualmente realizando curso Programador Full Stack.
+ - Conhecimento em HTML, CSS e Lógica da Programação.
+ - Horas vagas: ler, estudar e ouvir musica.
 
 <a href="https://github.com/AlefCAp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlefCAp&show_icons=true&theme=dark" alt="Github status" />
