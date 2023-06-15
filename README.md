@@ -11,7 +11,7 @@
 
   <img src="https://media.tenor.com/oC706nzchFQAAAAC/kiba-naruto.gif" width="900px"/>
 
- 🍙  Superior em Análise e Desenvolvimento de Sistemas.
+ - Superior em Análise e Desenvolvimento de Sistemas.
 <br>
  🍙  Atualmente realizando curso Programador Full Stack.
 <br>
