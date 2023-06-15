@@ -12,8 +12,8 @@
   <img src="https://media.tenor.com/oC706nzchFQAAAAC/kiba-naruto.gif" width="900px"/>
 
  🍙 Superior em Análise e Desenvolvimento de Sistemas.
-  🍙 Atualmente realizando curso Programador Full Stack.
-  🍙 Conhecimento em HTML, CSS e Lógica da Programação.
+       🍙 Atualmente realizando curso Programador Full Stack.
+       🍙 Conhecimento em HTML, CSS e Lógica da Programação.
  🍙 Horas vagas: ler, estudar e ouvir musica.
 
 <a href="https://github.com/AlefCAp">
