@@ -2,34 +2,43 @@
 <html>
  
  <head>
-   
-  <h1> <strong>🍙 Álef Apolinário 🍙 </strong></h1>
- 
+  <div align="center">
+  <img src="https://api.products.aspose.app/slides/api/Common/DownloadFile/bfb9df1c-bccc-47ed-bc78-9b4b325b66d8?file=result.gif"/>
+  </div>
+  <hr>
  </head>
  
- <body>
-
+ <body background-color="gray">
+<div align="center">
   <img src="https://media.tenor.com/oC706nzchFQAAAAC/kiba-naruto.gif" width="900px"/>
-
- - Superior em Análise e Desenvolvimento de Sistemas.
- - Atualmente realizando curso Programador Full Stack.
- - Conhecimento em HTML, CSS e Lógica da Programação.
- - Horas vagas: ler, estudar e ouvir musica.
-
+</div>
+  
+<div align="rigth">     
+ <strong> - Superior em Análise e Desenvolvimento de Sistemas. </strong>
+ <br>
+ <strong> - Atualmente realizando curso Programador Full Stack. </strong>
+ <br>
+ <strong> - Conhecimento em HTML, CSS e Lógica da Programação. </strong>
+ <br>
+ <strong> - Horas vagas: ler, estudar e ouvir musica. </strong>
+ <br>
+</div> 
+  
+<div align="center">
 <a href="https://github.com/AlefCAp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlefCAp&show_icons=true&theme=dark" alt="Github status" />
 </a>
 <a href="https://github.com/AlefCAp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefCAp&layout=compact&theme=dark" />
 </a>
-  
+</div>  
 </body>
 
 <foot>
  
 <br>
 <hr>
-<p align="center"> <stronge>Redes Sociais</stronge> </p>
+<p align="center"> <strong>Redes Sociais</strong> </p>
 
 <div align="center">
  
