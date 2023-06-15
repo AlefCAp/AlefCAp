@@ -16,6 +16,7 @@
  🍙 Atualmente realizando curso Programador Full Stack.
 <br>
  🍙 Conhecimento em HTML, CSS e Lógica da Programação.
+<br>
  🍙 Horas vagas: ler, estudar e ouvir musica.
 
 <a href="https://github.com/AlefCAp">
