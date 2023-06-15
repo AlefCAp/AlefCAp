@@ -3,7 +3,7 @@
  
  <head>
    
-  <h1> <strong>🍙 Álef Apolinário 🍙</strong></h1>
+  <h1> <strong>🍙 Álef Apolinário </strong></h1>
  
  </head>
  
