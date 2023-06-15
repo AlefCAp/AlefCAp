@@ -7,7 +7,7 @@
   </div>
  </head>
  
- <body background-color="gray">
+ <body>
 <div align="center">
   <img src="https://media.tenor.com/oC706nzchFQAAAAC/kiba-naruto.gif" width="900px"/>
 </div>
