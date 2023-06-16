@@ -12,7 +12,8 @@
   <img src="https://imagehost9.online-image-editor.com/oie_upload/images/1651249GvY5piU4j8/rounded_corners.gif" width="900px"/>
 </div>
   
-<div align="rigth">     
+<div align="rigth"> 
+<br>    
  <strong> - Superior em Análise e Desenvolvimento de Sistemas. </strong>
  <br>
  <strong> - Atualmente realizando curso Programador Full Stack. </strong>
@@ -21,6 +22,7 @@
  <br>
  <strong> - Horas vagas: ler, estudar e ouvir musica. </strong>
  <br>
+<br>
 </div> 
   
 <div align="center">
