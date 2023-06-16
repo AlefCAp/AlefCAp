@@ -3,13 +3,14 @@
  
  <head>
   <div align="center">
-  <img src="https://api.products.aspose.app/slides/api/Common/DownloadFile/bfb9df1c-bccc-47ed-bc78-9b4b325b66d8?file=result.gif"/>
+  <img src="https://imagehost9.online-image-editor.com/oie_upload/images/1652713DF56e3S50d/rounded_corners.gif"width="500px"/>
+  <hr>
   </div>
  </head>
  
  <body>
 <div align="center">
-  <img src="https://media.tenor.com/oC706nzchFQAAAAC/kiba-naruto.gif" width="900px"/>
+  <img src="https://imagehost9.online-image-editor.com/oie_upload/images/1651249GvY5piU4j8/rounded_corners.gif" width="900px"/>
 </div>
   
 <div align="rigth">     
