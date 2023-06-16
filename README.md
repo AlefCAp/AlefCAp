@@ -3,8 +3,7 @@
  
  <head>
   <div align="center">
-  <img src="https://imagehost9.online-image-editor.com/oie_upload/images/1652713DF56e3S50d/rounded_corners.gif"width="500px"/>
-  <hr>
+  <img src="https://imagehost9.online-image-editor.com/oie_upload/images/1653110gb2KwVS/rounded_corners.gif"width="500px"/>
   </div>
  </head>
  
