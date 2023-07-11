@@ -28,16 +28,27 @@
 <a href="https://github.com/AlefCAp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlefCAp&show_icons=true&theme=dark" alt="Github status" />
 </a>
-<a href="https://github.com/AlefCAp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefCAp&layout=compact&theme=dark" />
-</a>
-</div>  
-</body>
+</div>
 
-<foot>
- 
+<hr>
+
+<p align="center"> <strong>Projetos</strong> </p>
+
+<div align="center">
+<a href="https://github.com/AlefCAp/comandos-git">
+  <img align="center" src="https://cdn.discordapp.com/attachments/1071261120012238919/1128382514055090296/oie_png_6.png" width="160px"/>
+</a>
+ <a href="">
+  <img align="center" src="https://cdn.discordapp.com/attachments/1071261120012238919/1128381477822935101/oie_png_5.png" width="160px"/>
+</a>
+ <a href="">
+  <img align="center" src="https://cdn.discordapp.com/attachments/1071261120012238919/1128383134468153344/oie_png_7.png" width="160px"/>
+</a>
+</div>
+
 <br>
 <hr>
+
 <p align="center"> <strong>Redes Sociais</strong> </p>
 
 <div align="center">
@@ -48,6 +59,6 @@
 
 </div>
 
-</foot>
+</body>
 
 </html>
