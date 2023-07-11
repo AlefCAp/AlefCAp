@@ -34,15 +34,15 @@
 
 <p align="center"> <strong>Projetos</strong> </p>
 
-<div align="center">
+<div align="center"">
 <a href="https://github.com/AlefCAp/comandos-git">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1071261120012238919/1128382514055090296/oie_png_6.png" width="160px"/>
+  <img align="center" src="https://cdn.discordapp.com/attachments/1071261120012238919/1128382514055090296/oie_png_6.png" width="100px"/>
 </a>
  <a href="">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1071261120012238919/1128381477822935101/oie_png_5.png" width="160px"/>
+  <img align="center" src="https://cdn.discordapp.com/attachments/1071261120012238919/1128381477822935101/oie_png_5.png" width="100px"/>
 </a>
  <a href="">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1071261120012238919/1128383134468153344/oie_png_7.png" width="160px"/>
+  <img align="center" src="https://cdn.discordapp.com/attachments/1071261120012238919/1128383134468153344/oie_png_7.png" width="100px"/>
 </a>
 </div>
 
