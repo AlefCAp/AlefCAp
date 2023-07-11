@@ -9,7 +9,7 @@
  
  <body>
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1071261120012238919/1128168940976210020/oie_rounded_corners_1.gif" width="900px"/>
+  <img src="https://cdn.discordapp.com/attachments/1071261120012238919/1128384281987797083/oie_rounded_corners_1.gif" width="900px"/>
 </div>
   
 <div align="center">    
