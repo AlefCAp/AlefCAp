@@ -3,7 +3,7 @@
  
  <head>
   <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1071261120012238919/1128168509122285598/oie_rounded_corners.gif"width="250px"/>
+  <img src="https://cdn.discordapp.com/attachments/1071261120012238919/1128384936597004438/oie_rounded_corners_3.gif"width="250px"/>
   </div>
  </head>
  
