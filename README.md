@@ -3,13 +3,13 @@
  
  <head>
   <div align="center">
-  <img src="https://imagehost9.online-image-editor.com/oie_upload/images/1653110gb2KwVS/rounded_corners.gif"width="250px"/>
+  <img src="https://cdn.discordapp.com/attachments/1071261120012238919/1128168509122285598/oie_rounded_corners.gif"width="250px"/>
   </div>
  </head>
  
  <body>
 <div align="center">
-  <img src="https://imagehost9.online-image-editor.com/oie_upload/images/1651249GvY5piU4j8/rounded_corners.gif" width="900px"/>
+  <img src="https://cdn.discordapp.com/attachments/1071261120012238919/1128168940976210020/oie_rounded_corners_1.gif" width="900px"/>
 </div>
   
 <div align="center">    
